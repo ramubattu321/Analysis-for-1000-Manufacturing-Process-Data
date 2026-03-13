@@ -23,6 +23,9 @@ The dataset contains manufacturing process data including machine IDs, sensor re
 - Cluster distribution
 - Correlation heatmap
 - Outlier detection (boxplots)
+  ## Sample Visualization
+
+![Cluster Distribution](images/cluster_distribution.png)
 
 ## Output
 A sampled dataset (`cluster_sample.csv`) containing selected machine clusters.
