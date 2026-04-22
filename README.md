@@ -53,16 +53,11 @@ The dataset contains manufacturing process data including:
 
 ---
 
-## Visualizations
+## Visualization
 
-### Control Chart (Anomaly Detection)
-![Control Chart](images/control_chart.png)
+### Manufacturing Process Control Chart (Anomaly Detection)
 
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Outlier Detection (Boxplot)
-![Outlier Boxplot](images/outlier_boxplot.png)
+![Control Chart](images.png)
 
 ---
 
