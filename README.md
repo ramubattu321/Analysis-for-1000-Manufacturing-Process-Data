@@ -57,7 +57,7 @@ The dataset contains manufacturing process data including:
 
 ### Manufacturing Process Control Chart (Anomaly Detection)
 
-![Control Chart](images.png)
+![Control Chart](Image.png)
 
 ---
 
